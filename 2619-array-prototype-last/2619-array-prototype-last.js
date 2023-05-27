@@ -1,3 +1,7 @@
 Array.prototype.last = function() {
-    return this.length ? this[this.length - 1] : -1
+  if (this.length === 0) {
+    return -1;
+  } else {
+    return this[this.length - 1];
+  }
 };
