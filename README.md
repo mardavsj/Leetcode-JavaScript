@@ -1,3 +1,5 @@
+<div align="right"><a href="https://www.buymeacoffee.com/mardavsj"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=mardavjadag&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/></a></div>
+
 # Leetcode javascript solutions ! 
 
 It consists the solutions of both easy as well as medium level javascript questions.
